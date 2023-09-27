@@ -1,7 +1,8 @@
 # Data-Science-Showcase
 A collection of python data science projects covering Health, Finance, and Science.
 
-**Only belly could tell about our body fat?** - [Regression Study on Body Fat](https://github.com/kowkdrawde/Data_Science_Showcase/blob/master/Regression_Study_on_Body_Fat_Data.ipynb)
+**Only belly could tell about our body fat?** - Regression Study on Body Fat using [PySpark (new and update)](https://github.com/kowkdrawde/Data_Science_Showcase/blob/master/PySpark_BodyFat.ipynb) /
+[sklearn](https://github.com/kowkdrawde/Data_Science_Showcase/blob/master/Regression_Study_on_Body_Fat_Data.ipynb)
 **<br>It's a star...it's a galaxy...it's quasar!** - [Classification Study on Stellar Objects](https://github.com/kowkdrawde/Data_Science_Showcase/blob/master/Classification_Study_on_Stellar_Objects.ipynb)
 **<br>Banking habits suggest banking credits?** - [Clustering Study on Customer Segmentation](https://github.com/kowkdrawde/Data_Science_Showcase/blob/master/Clustering_Study_on_Customer_Segmentation.ipynb)
 **<br>To grade or not to grade, that's the question.** - [Deep Learning Study on Body Performance](https://github.com/kowkdrawde/Data_Science_Showcase/blob/master/Deep_Learning_Study_on_Body_Performance.ipynb)
